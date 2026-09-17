@@ -1,5 +1,3 @@
-
-
 function Skills({ skillList }) {
 return (
 <ul>
